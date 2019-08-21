@@ -1,0 +1,1000 @@
+  638  sudo apt-get pip
+  639  sudo apt-get install pip
+  640  sudo apt-get install python
+  641  apt-get update
+  642  sudo apt-get update
+  643  apt-get install python2.7 python-pip python-dev git libssl-dev libffi-dev build-essential
+  644  sudo apt-get install python2.7 python-pip python-dev git libssl-dev libffi-dev build-essential
+  645  apt-get install software-properties-common
+  646  sudo apt-get install software-properties-common
+  647  ip install --upgrade pip
+  648  pip install --upgrade pip
+  649  pip install --upgrade pwntools
+  650  sudo pip install pip --upgrade
+  651  sudo python3 -m pip uninstall pip && sudo apt install python3-pip --reinstall
+  652  sudo python -m pip uninstall pip && sudo apt install python-pip --reinstall
+  653  python
+  654  idle
+  655  python
+  656  idle
+  657  sudo idle
+  658  python pwnxmas.py 
+  659  nc 95.179.163.167 10006
+  660  ping 95.179.163.167 10006
+  661  nc 95.179.163.167 10006
+  662  python pwnxmas.py 
+  663  python -c "print 0x80"
+  664  python pwnxmas.py 
+  665  python
+  666  python pwnxmas.py 
+  667  [A
+  668  python pwnxmas.py 
+  669  nc 199.247.6.180 10006
+  670  python pwnxmas.py 
+  671  python challpwn.py 
+  672  r2 -Ad pinkiegift 
+  673  chmod +x chall
+  674  r2 -Ad chall
+  675  idle
+  676  telegram &
+  677  r2 -A pinkiegift
+  678  python pwnxmas.py 
+  679  r2 -A pinkiegift
+  680  python pwnxmas.py 
+  681  r2 -Ad pinkiegift
+  682  python pwnxmas.py 
+  683  r2 -Ad pinkiegift
+  684  python pwnxmas.py 
+  685  ython pwnxmas.py
+  686  pthon pwnxmas.py
+  687  python pwnxmas.py
+  688  r2 -Ad pinkiegift
+  689  python
+  690  r2 -Ad pinkiegift
+  691  python pwnxmas.py
+  692  r2 -Ad pinkiegift
+  693  r2 
+  694  r2 -help
+  695  r2 -h
+  696  r2 -
+  697  python pwnxmas.py
+  698  r2 -Ad pinkiegift
+  699  python pwnxmas.py
+  700  r2 -A chall
+  701  r2 -Ad chall
+  702  chmod +x chall
+  703  r2 -Ad chall
+  704  ./file9i7UZe 
+  705  ./filewokz 
+  706  ./filelwokz3 
+  707  ./fileMEZolM 
+  708  ./chall
+  709  cd chall/
+  710  ls
+  711  r2 -A filexdOXnK 
+  712  r2 -Ad filexdOXnK 
+  713  cd ../
+  714  cd
+  715  ls
+  716  cd chall/
+  717  ls
+  718  chmod +x catana 
+  719  ls
+  720  ./catana 
+  721  r2 -Ad catana 
+  722  q
+  723  telegram
+  724  cd chall/
+  725  info chall
+  726  r2 -A chall 
+  727  python solve.py 
+  728  sudo ./install.sh 
+  729  wasmdec
+  730  sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+  731  sudo apt-get update
+  732  sudo apt-get install gcc-4.9
+  733  sudo fuser -vki /var/lib/dpkg/lock
+  734  sudo apt-get install gcc-4.9
+  735  sudo fuser -vki /var/lib/dpkg/lock
+  736  sudo apt-get install gcc-4.9
+  737  sudo apt-get upgrade libstdc++6
+  738  cd ../
+  739  ls
+  740  wasmdec -o file.c a.out.wasm 
+  741  ./chall
+  742  chmod +x chall 
+  743  ./chall
+  744  idle
+  745  r2 -A bomb
+  746  exit
+  747  touch some.txt
+  748  nano some.txt
+  749  ./a.out
+  750  chmod +x a.out
+  751  ./a.out
+  752  r2 a.out
+  753  r2 -A a.out
+  754  r2 -Ad a.out
+  755  r2 -A a.out
+  756  r2d -A a.out
+  757  r2 -Ad a.out
+  758  r2 -A a.out
+  759  touch lab4.c
+  760  nano lab4.c
+  761  gcc lab4.c -o lab4
+  762  nano lab4.c
+  763  gcc lab4.c -o lab4
+  764  ./lab4
+  765  nano lab4.c
+  766  gcc lab4.c -o lab4
+  767  ./lab4
+  768  telegram &
+  769  nano lab4.c
+  770  touch lab4_2.c
+  771  nano lab4_2.c 
+  772  touch 1
+  773  touch 2
+  774  nano 1
+  775  nano 2
+  776  gcc lab4_2.c -o lab4_2
+  777  nano lab4_2.c 
+  778  gcc lab4_2.c -o lab4_2
+  779  nano lab4_2.c 
+  780  gcc lab4_2.c -o lab4_2
+  781  ./lab4_2 
+  782  nano lab4_2.c 
+  783  gcc lab4_2.c -o lab4_2
+  784  nano lab4_2.c 
+  785  nano 1
+  786  nano 2
+  787  nano lab4_2.c
+  788  gcc lab4_2.c -o lab4_2
+  789  ./lab4_2
+  790  nano lab4_2.c
+  791  gcc lab4_2.c -o lab4_2
+  792  ./lab4_2
+  793  gcc lab4_2.c -o lab4_2
+  794  nano lab4_2.c
+  795  telegram &
+  796  nano lab4_2.c
+  797  clear
+  798  r2 -A a.out
+  799  touch lab5.c
+  800  nano lab5.c 
+  801  gcc lab5.c -o lab
+  802  nano lab5.c 
+  803  gcc lab5.c -o lab
+  804  nano lab5.c 
+  805  gcc lab5.c -o lab
+  806  nano lab5.c 
+  807  gcc lab5.c -o lab
+  808  nano lab5.c 
+  809  gcc lab5.c -o lab
+  810  ./lab
+  811  nano lab5.c 
+  812  gcc lab5.c -o lab
+  813  ./lab
+  814  nano result
+  815  nano lab5.c 
+  816  gcc lab5.c -o lab
+  817  ./lab
+  818  nano result
+  819  nano lab5.c 
+  820  telegram &
+  821  nano lab5.c 
+  822  r2 lab
+  823  r2 -A lab
+  824  nano lab5.c
+  825  nano lab5_3.c
+  826  gcc lab5_3.c -o lab
+  827  nano lab5_3.c
+  828  gcc lab5_3.c -o lab
+  829  nano lab5_3.c
+  830  gcc lab5_3.c -o lab
+  831  ./lab
+  832  gcc lab5_3.c -o lab
+  833  nano lab5_3.c
+  834  gcc lab5_3.c -o lab
+  835  ./lab
+  836  nano lab5_3.c
+  837  r2 -A lab
+  838  nano lab5_3.c
+  839  gcc lab5_3.c -o lab
+  840  ./lab
+  841  nano lab5_3.c
+  842  gcc lab5_3.c -o lab
+  843  ./lab
+  844  nano lab5_3.c
+  845  gcc lab5_3.c -o lab
+  846  nano lab5_3.c
+  847  gcc lab5_3.c -o lab
+  848  ./lab
+  849  nano lab5_3.c
+  850  gcc lab5_3.c -o lab
+  851  ./lab
+  852  nano lab5_3.c
+  853  gcc lab5_3.c -o lab
+  854  ./lab
+  855  nano lab5_3.c
+  856  gcc lab5_3.c -o lab
+  857  nano lab5_3.c
+  858  python -c "len("""Dzhamaldinov Z.A., Tarasov S.V. (2016) Methods to protect software code from)
+  859  research, "Bulletin of modern research"
+  860  ⦁    What is it about?
+  861  ⦁    Research question
+  862  ⦁    Hypothesis
+  863  ⦁    Methods: 
+  864  python 
+  865  telegram &
+  866  nano lab5.c
+  867  gcc lab5.c -o lab
+  868  r2 -A lab
+  869  nano lab5.c
+  870  gcc lab5.c -o lab
+  871  r2 -A lab
+  872  nano lab5.c
+  873  gcc lab5.c -o lab
+  874  r2 -A lab
+  875  nano lab5.c
+  876  gcc lab5.c -o lab
+  877  ./lab
+  878  nano lab5.c
+  879  r2 -A lab
+  880  telegram &
+  881  r2 5-out.txt 
+  882  python -c "hex(10011)"
+  883  python -c "print(hex(10011))"
+  884  gcc assignment.c -o res
+  885  ./res
+  886  gcc assignment.c -o res
+  887  ./res
+  888  gcc assignment.c -o res
+  889  ./res
+  890  gcc assignment.c -o res
+  891  ./res
+  892  gcc assignment.c -o res
+  893  ./res
+  894  gcc assignment.c -o res
+  895  ./res
+  896  gcc assignment.c -o res
+  897  ./res
+  898  r2 -Ad res
+  899  gcc assignment.c -o res
+  900  r2 -Ad res
+  901  gcc assignment.c -o res
+  902  ./res
+  903  gcc assignment.c -o res
+  904  ./res
+  905  gcc assignment.c -o res
+  906  ./res
+  907  gcc assignment.c -o res
+  908  ./res
+  909  gcc assignment.c -o res
+  910  ./res
+  911  gcc assignment.c -o res
+  912  ./res
+  913  gcc assignment.c -o res
+  914  ./res
+  915  gcc assignment.c -o res
+  916  ./res
+  917  gcc assignment.c -o res
+  918  ./res
+  919  gcc assignment.c -o res
+  920  ./res
+  921  gcc assignment.c -o res
+  922  ./res
+  923  gcc assignment.c -o res
+  924  touch 1.txt
+  925  nano 1.txt
+  926  ./res 1.ttx
+  927  ./res 1.txt
+  928  gcc assignment.c -o res
+  929  ./res 1.txt
+  930  gcc assignment.c -o res
+  931  ./res 1.txt
+  932  gcc assignment.c -o res
+  933  ./res 1.txt
+  934  gcc assignment.c -o res
+  935  ./res 1.txt
+  936  gcc assignment.c -o res
+  937  ./res 1.txt
+  938  gcc assignment.c -o res
+  939  ./res 1.txt
+  940  touch lab7.c
+  941  nano lab7.c 
+  942  gcc lab7.c -o res
+  943  nano lab7.c 
+  944  gcc lab7.c -o res
+  945  ./res
+  946  r2 -A res
+  947  nano lab7.c
+  948  gcc lab7.c -o res
+  949  nano lab7.c
+  950  gcc lab7.c -o res
+  951  nano lab7.c
+  952  gcc lab7.c -o res
+  953  ./res
+  954  gcc lab7.c -o res
+  955  ./res
+  956  nano lab7.c
+  957  gcc lab7.c -o res
+  958  ./res
+  959  nano lab7.c
+  960  gcc lab7.c -o res
+  961  nano lab7.c
+  962  gcc lab7.c -o res
+  963  ./res
+  964  gcc assignment.c -o res
+  965  ./res
+  966  ./res 1.txt
+  967  nano 1.txt
+  968  gcc assignment.c -o res
+  969  ./res 1.txt
+  970  ./res 6.txt
+  971  nano 6.txt
+  972  ./res 6.txt
+  973  gimp
+  974  gcc assignment.c -o res
+  975  gimp
+  976  gcc assignment.c -o res
+  977  ./res 1.txt
+  978  gcc assignment.c -o res
+  979  ./res 1.txt
+  980  gcc assignment.c -o res
+  981  ./res 1.txt
+  982  gcc assignment.c -o res
+  983  ./res 1.txt
+  984  gcc assignment.c -o res
+  985  ./res 1.txt
+  986  gcc assignment.c -o res
+  987  ./res 1.txt
+  988  gcc assignment.c -o res
+  989  ./res 1.txt
+  990  gcc assignment.c -o res
+  991  ./res 1.txt
+  992  gcc assignment.c -o res
+  993  ./res 1.txt
+  994  telegram &
+  995  gcc assignment.c -o res
+  996  ./res 1.txt
+  997  ./res
+  998  ./res 1.txt
+  999  gcc assignment.c -o res
+ 1000  ./res 1.txt
+ 1001  ./res
+ 1002  gcc assignment.c -o res
+ 1003  ./res
+ 1004  ./res 4.txt
+ 1005  gcc assignment.c -o res
+ 1006  gcc assignment.c -o res
+ 1007  ./res 4.txt
+ 1008  gcc assignment.c -o res
+ 1009  gcc assignment.c -o res
+ 1010  ./res 4.txt
+ 1011  gcc assignment.c -o res
+ 1012  ./res 4.txt
+ 1013  gcc assignment.c -o res
+ 1014  gcc assignment.c -o res
+ 1015  gcc assignment.c -o res
+ 1016  ./res 4.txt
+ 1017  ./res 4.txt
+ 1018  gcc assignment.c -o res
+ 1019  ./res 4.txt
+ 1020  gcc assignment.c -o res
+ 1021  ./res 4.txt
+ 1022  gcc assignment.c -o res
+ 1023  ./res 4.txt
+ 1024  gcc assignment.c -o res
+ 1025  ./res 4.txt
+ 1026  nano 12.txt
+ 1027  gcc assignment.c -o res
+ 1028  ./res 12.txt
+ 1029  gcc assignment.c -o res
+ 1030  ./res 12.txt
+ 1031  idle3
+ 1032  gcc assignment.c -o res
+ 1033  ./res 12.txt
+ 1034  ./res 1.txt
+ 1035  ./res 2.txt
+ 1036  ./res 3.txt
+ 1037  ./res 1.txt
+ 1038  idle3 &
+ 1039  ./res 1.txt
+ 1040  sudo apt-get install zip unzip
+ 1041  zip IlyaMakarenko.zip assignment.c
+ 1042  ./res input1.txt 
+ 1043  ./res input3.txt 
+ 1044  ./res input4.txt 
+ 1045  ./res input5.txt 
+ 1046  python3 check.py 
+ 1047  ./res input13.txt
+ 1048  ./res input14.txt
+ 1049  telegram &
+ 1050  cd ../
+ 1051  gcc -o res lab10.c
+ 1052  cc -o res lab10.c
+ 1053  gcc -o res lab10.c
+ 1054  ./res
+ 1055  gcc -o res lab10.c
+ 1056  ./res
+ 1057  gcc -o res lab10.c
+ 1058  ./res
+ 1059  gcc -o res lab10.c
+ 1060  ./res
+ 1061  gcc -o res lab10.c
+ 1062  ./res
+ 1063  gcc -o res lab10.c
+ 1064  ./res
+ 1065  gcc -o res lab10.c
+ 1066  ./res
+ 1067  /res
+ 1068  gcc -o res lab10.c
+ 1069  /res
+ 1070  ./res
+ 1071  gcc -o res lab10.c
+ 1072  ./res
+ 1073  gcc -o res lab10.c
+ 1074  ./res
+ 1075  gcc -o res lab10.c
+ 1076  ./res
+ 1077  gcc -o res lab10.c
+ 1078  ./res
+ 1079  gcc -o res lab10.c
+ 1080  ./res
+ 1081  gcc -o res lab10.c
+ 1082  ./res
+ 1083  gcc -o res lab10.c
+ 1084  ./res
+ 1085  gcc -o res lab10.c
+ 1086  ./res
+ 1087  gcc -o res lab10.c
+ 1088  ./res
+ 1089  gcc -o res lab10.c
+ 1090  ./res
+ 1091  gcc -o res lab10.c
+ 1092  ./res
+ 1093  gcc -o res lab10.c
+ 1094  ./res
+ 1095  gcc -o res lab10.c
+ 1096  ./res
+ 1097  gcc -o res lab10.c
+ 1098  ./res
+ 1099  gcc -o res lab10.c
+ 1100  ./res
+ 1101  gcc -o res lab10.c
+ 1102  ./res
+ 1103  gcc -o res lab10.c
+ 1104  ./res
+ 1105  gcc -o res lab10.c
+ 1106  ./res
+ 1107  gcc -o res lab10.c
+ 1108  ./res
+ 1109  gcc -o res lab10.c
+ 1110  ./res
+ 1111  cd assignment2
+ 1112  gcc -o res IlyaMakarenko.c 
+ 1113  gcc -o res lab13.c
+ 1114  ./res
+ 1115  ./res5
+ 1116  ./res
+ 1117  ./res5
+ 1118  gcc -o res lab13.c
+ 1119  ./res5
+ 1120  ./res
+ 1121  gcc -o res lab13.c
+ 1122  ./res
+ 1123  gcc -o res lab13.c
+ 1124  ./res
+ 1125  gcc -o res lab13.c
+ 1126  ./res
+ 1127  gcc -S res.s lab13.c
+ 1128  gcc -S lab13.c
+ 1129  gcc -S lab13.c -o res.s
+ 1130  gcc -S lab13.c -O1 -o res.s
+ 1131  gcc lab13.c -O1 -o res
+ 1132  r2 -Ad res
+ 1133  ./res
+ 1134  r2 -Ad res
+ 1135  gcc lab13.c -O1 -o res
+ 1136  r2 -Ad res
+ 1137  gcc lab13.c -O1 -o res
+ 1138  r2 -Ad res
+ 1139  gcc lab13.c -O1 -o res
+ 1140  r2 -Ad res
+ 1141  gcc lab13.c -O2 -o res
+ 1142  r2 -Ad res
+ 1143  gcc -S lab13.c -o res.s
+ 1144  gcc -S lab13.c -O1 -o res.s
+ 1145  gcc lab13.c -O1 -o res
+ 1146  r2 -Ad res
+ 1147  gcc -S lab13.c -O1 -o res.s
+ 1148  gcc -S lab13.c -o res.s
+ 1149  gcc -S lab13.c -O1 -o res.s
+ 1150  r2 -Ad res
+ 1151  cd ./assignment
+ 1152  cd ../assignment
+ 1153  cd assignment
+ 1154  cd assignment3
+ 1155  cd assignment2
+ 1156  ls
+ 1157  gcc -o res IlyaMakarenko.c 
+ 1158  ./res
+ 1159  cd ../
+ 1160  gcc -S lab13.c -o res.s
+ 1161  gcc lab13.c -o res
+ 1162  r2 -Ad res
+ 1163  gcc -S lab13.c -o res.s
+ 1164  gcc -o res -Wall assignment.c 
+ 1165  gcc -o res -wall assignment.c 
+ 1166  gcc -o res -Wall assignment.c 
+ 1167  python3 manage.py runserver
+ 1168  python3 install -t requirements.txt
+ 1169  pip3 install -t requirements.txt
+ 1170  pip3 install -r requirements.txt
+ 1171  python3 manage.py runserver
+ 1172  telegram & 
+ 1173  apt-get install docker
+ 1174  apt-get install docker.io
+ 1175  sudo apt-get install docker.io
+ 1176  docker
+ 1177  docker run hello-world
+ 1178  service docker status
+ 1179  service docker start
+ 1180  service docker starus
+ 1181  service docker status
+ 1182  docker run hello-world
+ 1183  sudo docker run hello-world
+ 1184  sudo docker run -it --rm python:3.4
+ 1185  service docker status
+ 1186  sudo docker run -it --rm python:3.4
+ 1187  sudo docker run hello-world
+ 1188  cd internship/
+ 1189  cd DockerTest/
+ 1190  touch Dockerfile
+ 1191  python
+ 1192  python3
+ 1193  ls
+ 1194  docker build
+ 1195  docker build -t=chatik
+ 1196  docker build ./
+ 1197  sudo docker build ./
+ 1198  docker image ls
+ 1199  sudo docker image ls
+ 1200  sudo docker build -t=chatik ./
+ 1201  sudo docker image ls
+ 1202  docker-run -p 4000:80 chatik
+ 1203  docker run -p 4000:80 chatik
+ 1204  sudo docker run -p 4000:80 chatik
+ 1205  sudo docker run -p 4000:8000 chatik
+ 1206  sudo docker build -t=chatik ./
+ 1207  sudo docker run -p 4000:8000 chatik
+ 1208  sudo docker build -t=chatik ./
+ 1209  sudo docker image ls
+ 1210  sudo docker run -p 4000:8000 chatik:latest
+ 1211  sudo docker build -t=chatik ./
+ 1212  sudo docker run -p 4000:8000 chatik
+ 1213  sudo docker build -t=chatik ./
+ 1214  sudo docker run -p 4000:8000 chatik
+ 1215  sudo docker image ls
+ 1216  sudo docker image ls -a
+ 1217  sudo docker ps
+ 1218  sudo docker ps -a
+ 1219  sudo docker run -d -p 4000:8000 chatik
+ 1220  sudo docker ps -a
+ 1221  sudo docker ps
+ 1222  sudo docker run -it -d -p 4000:8000 chatik
+ 1223  sudo docker ps
+ 1224  sudo docker exec -it f504fa5e492b python manage.py runserver
+ 1225  sudo docker ps
+ 1226  sudo docker run -it -d -p 4000:8000 chatik
+ 1227  sudo docker exec -it f504fa5e492b python manage.py runserver
+ 1228  sudo docker run -it -d -p 4000:8000 chatik
+ 1229  sudo docker ps
+ 1230  sudo docker run -it -d -p 4000:8000 chatik
+ 1231  sudo docker ps
+ 1232  sudo docker run -it -p 4000:8000 chatik
+ 1233  sudo docker ps
+ 1234  sudo docker build -t=chatik ./
+ 1235  sudo docker run -it -p 4000:8000 chatik
+ 1236  sudo docker run -it chatik
+ 1237  sudo docker run -it -p 8000:8000 chatik
+ 1238  pip install docker-compose
+ 1239  docker-compose up
+ 1240  service docker status
+ 1241  docker-compose up
+ 1242  sudo docker-compose up
+ 1243  docker-compose up
+ 1244  dockerd
+ 1245  sudo dockerd
+ 1246  sudo docker-compose up
+ 1247  docker-compose up
+ 1248  sudo docker-compose up
+ 1249  docker-compose up
+ 1250  sudo pip install docker-compose
+ 1251  sudo docker-compose up
+ 1252  docker-compose up
+ 1253  docker-compose up -d
+ 1254  sudo systemctl start docker
+ 1255  docker-compose up -d
+ 1256  docker-compose build
+ 1257  sudo docker-compose up -d
+ 1258  docker-compose build
+ 1259  sudo docker-compose build
+ 1260  service docker restart
+ 1261  sudo docker-compose build
+ 1262  docker-compose build
+ 1263  export DOCKER_HOST=127.0.0.1
+ 1264  docker-compose build
+ 1265  export DOCKER_HOST=127.0.0.1:8000
+ 1266  docker-compose build
+ 1267  export DOCKER_HOST=127.0.0.1:80
+ 1268  docker-compose build
+ 1269  service docker status
+ 1270  export DOCKER_HOST=172.17.0.1:16
+ 1271  docker-compose build
+ 1272  export DOCKER_HOST=localhost
+ 1273  docker-compose build
+ 1274  export DOCKER_HOST=localhost:80
+ 1275  docker-compose build
+ 1276  sudo netstat -tunlp
+ 1277  redis-server
+ 1278  sudo apt install redis-server
+ 1279  cd Internship/ChattWebsite
+ 1280  cd internship/ChattWebsite
+ 1281  cd internship
+ 1282  cd ChattWebsite
+ 1283  cd ChatWebsite
+ 1284  redis-server
+ 1285  python manage.py runserver
+ 1286  python3 manage.py runserver
+ 1287  sudo mv
+ 1288  sudo mv geckodriver /bin
+ 1289  ls
+ 1290  cd /bin
+ 1291  python3 manage.py migrate
+ 1292  python3 manage.py runserver
+ 1293  cd internship/
+ 1294  ls
+ 1295  cd DockerTest
+ 1296  docker-compose up
+ 1297  docker
+ 1298  service docker status
+ 1299  sudo docker-compose up
+ 1300  docker-compose build
+ 1301  service docker status
+ 1302  docker-compose build
+ 1303  sudo docker-compose build
+ 1304  sudo pip3 install docker-compose
+ 1305  docker-compose build
+ 1306  sudo docker-compose build
+ 1307  sudo docker-compose up
+ 1308  sudo docker-compose 
+ 1309  sudo docker-compose start
+ 1310  sudo rm ./config
+ 1311  sudo rm -r ./config
+ 1312  telegram &
+ 1313  sudo docker-compose starup
+ 1314  sudo docker-compose restart
+ 1315  sudo docker-compose stop
+ 1316  sudo docker-compose up
+ 1317  sudo docker-compose start
+ 1318  sudo docker-compose up
+ 1319  docker ls -a
+ 1320  docker ps -a
+ 1321  sudo docker ps -a
+ 1322  sudo docker ps
+ 1323  sudo docker ps -a
+ 1324  sudo docker rm upstream web {  
+ 1325  }
+ 1326  server {
+ 1327  sudo docker rm fcf8e9774fce_nz01
+ 1328  sudo docker-compose up
+ 1329  docker ps -a
+ 1330  sudo docker ps -a
+ 1331  docker rm -v  nz01
+ 1332  sudo docker rm -v  nz01
+ 1333  sudo docker-compose up
+ 1334  rm -r ./config/nginx
+ 1335  sudo docker rm -v  nz01
+ 1336  sudo docker-compose up
+ 1337  sudo docker ps -a
+ 1338  sudo docker ps 
+ 1339  sudo docker-compose stop
+ 1340  sudo docker ps 
+ 1341  sudo docker ps -a
+ 1342  sudo docker rm ff19d20ecf5d
+ 1343  sudo docker rm eeedc368bae6
+ 1344  sudo docker rm 98ef9cd4bceb 
+ 1345  sudo docker rm 98ef9cd4bceb
+ 1346  sudo docker ps -a
+ 1347  sudo docker rm 29d960181c32
+ 1348  sudo docker rm fab647a54dc3
+ 1349  sudo docker rm 0da9d374baa8
+ 1350  sudo docker rm 3869eda8eb82
+ 1351  sudo docker rm 0742ba122fbf
+ 1352  sudo docker ps -a
+ 1353  sudo docker rm JOVIAL_LEAVITT
+ 1354  sudo docker rm jovial_leavitt
+ 1355  sudo docker rm mystifying_einstein
+ 1356  sudo docker rm unruffled_newton
+ 1357  sudo docker rm boring_mccarthy
+ 1358  sudo docker rm optimistic_volhard
+ 1359  sudo docker rm gallant_blackwell
+ 1360  sudo docker rm boring_vaughan
+ 1361  sudo docker ps -a
+ 1362  sudo docker rm zealous_lumiere
+ 1363  sudo docker rm practical_habit
+ 1364  sudo docker rm zen_ishizaka
+ 1365  sudo docker rm angry_greider
+ 1366  sudo docker rm gracious_cori
+ 1367  sudo docker ps -a
+ 1368  sudo docker rm practcal_habit
+ 1369  sudo docker rm practical_habit
+ 1370  sudo docker rm practical_haibt
+ 1371  sudo docker rm stupefied_morse
+ 1372  sudo docker rm ecstatic_davinci
+ 1373  sudo docker rm naughty_wozniak
+ 1374  sudo docker rm nz01
+ 1375  sudo docker-compose up
+ 1376  docker ps -a
+ 1377  sudo docker ps -a
+ 1378  sudo docker rm nz01
+ 1379  sudo docker-compose up
+ 1380  sudo docker ps -a
+ 1381  sudo docker rm nz01
+ 1382  sudo docker rm dz01
+ 1383  sudo docker rm rz01
+ 1384  sudo docker ps -a
+ 1385  sudo docker-compose up
+ 1386  sudo docker build ./
+ 1387  sudo docker-compose up
+ 1388  sudo docker ps -a
+ 1389  sudo docker-compose up
+ 1390  sudo docker ps -a
+ 1391  sudo docker rm rz01 -v
+ 1392  sudo docker rm rz02 -v
+ 1393  sudo docker rm rz02
+ 1394  sudo docker rm dz02 -v
+ 1395  sudo docker rm nz01 -v
+ 1396  sudo docker-compose stop
+ 1397  sudo docker rm dz02 -v
+ 1398  sudo docker-compose up
+ 1399  docker-compose help
+ 1400  sudo docker-compose down
+ 1401  sudo docker-compose up
+ 1402  sudo docker-compose down
+ 1403  sudo docker-compose kill
+ 1404  sudo docker-compose up
+ 1405  sudo docker-compose kill
+ 1406  sudo docker-compose help
+ 1407  sudo docker-compose rm
+ 1408  sudo docker-compose build
+ 1409  sudo docker-compose start
+ 1410  sudo docker-compose up
+ 1411  sudo docker-compose build
+ 1412  sudo docker-compose up
+ 1413  sudo docker-compose build
+ 1414  sudo docker-compose builup
+ 1415  sudo docker-compose up
+ 1416  sudo docker-compose buils
+ 1417  sudo docker-compose build
+ 1418  sudo docker-compose up
+ 1419  sudo docker-compose build
+ 1420  sudo docker-compose up
+ 1421  rm -r ./confing/nginx
+ 1422  rm -r ./config/nginx
+ 1423  rm -r ./confing/nginx
+ 1424  rm -r ./config/nginx
+ 1425  sudo docker-compose build
+ 1426  docker ps -a
+ 1427  sudo docker ps -a
+ 1428  sudo docker rm chat_nginx
+ 1429  sudo docker rm chat_ngnix
+ 1430  sudo docker rm chat_redis
+ 1431  sudo docker rm chat_django
+ 1432  sudo docker ps -a
+ 1433  sudo docker-compose build
+ 1434  sudo docker-compose up
+ 1435  sudo docker-compose build
+ 1436  sudo docker-compose up
+ 1437  sudo docker-compose kill
+ 1438  sudo docker-compose 
+ 1439  sudo docker-compose down
+ 1440  sudo docker-compose build
+ 1441  sudo docker-compose 
+ 1442  sudo docker ps -a
+ 1443  sudo docker-compose build
+ 1444  sudo docker-compose 
+ 1445  sudo docker-compose config
+ 1446  sudo docker-compose build
+ 1447  sudo docker-compose up
+ 1448  sudo docker-compose build
+ 1449  sudo docker-compose up
+ 1450  sudo docker-compose build
+ 1451  sudo docker-compose rebuild
+ 1452  sudo docker-compose build
+ 1453  sudo docker-compose up
+ 1454  sudo docker-compose build
+ 1455  sudo docker-compose up
+ 1456  sudo docker-compose build
+ 1457  sudo docker-compose up
+ 1458  sudo docker-compose build
+ 1459  sudo docker-compose up
+ 1460  sudo docker-compose build
+ 1461  sudo docker-compose up
+ 1462  sudo docker-compose build
+ 1463  sudo docker-compose up
+ 1464  sudo docker-compose down
+ 1465  sudo docker-compose build
+ 1466  sudo docker-compose up
+ 1467  sudo docker-compose down
+ 1468  sudo docker-compose up
+ 1469  sudo docker-compose down
+ 1470  sudo docker-compose up
+ 1471  sudo docker-compose build
+ 1472  sudo docker-compose 
+ 1473  sudo docker-compose rm
+ 1474  sudo docker-compose build
+ 1475  sudo docker-compose up
+ 1476  sudo docker-compose build
+ 1477  sudo docker-compose up --build
+ 1478  sudo docker-compose build --no-chace
+ 1479  sudo docker-compose build --no-cache
+ 1480  sudo docker-compose up 
+ 1481  sudo docker-compose build --no-cache
+ 1482  sudo docker-compose up 
+ 1483  python ./chat/manage.py findstatic chat/chat.js
+ 1484  python3 ./chat/manage.py findstatic chat/chat.js
+ 1485  python3 ./chat/manage.py collectstatic
+ 1486  sudo python3 ./chat/manage.py collectstatic
+ 1487  python ./chat/manage.py findstatic chat/chat.js
+ 1488  python3 ./chat/manage.py findstatic chat/chat.js
+ 1489  sudo docker-compose build 
+ 1490  sudo docker-compose build --no-cache
+ 1491  sudo docker-compose build
+ 1492  sudo docker-compose build --no-cache
+ 1493  sudo docker-compose up 
+ 1494  sudo docker-compose build --no-cache
+ 1495  sudo docker-compose up 
+ 1496  sudo docker-compose build --no-cache
+ 1497  sudo docker-compose up 
+ 1498  rm -r static
+ 1499  rm -r static/
+ 1500  sudo docker-compose build --no-cache
+ 1501  sudo docker-compose up 
+ 1502  sudo docker-compose build --no-cache
+ 1503  sudo docker-compose up 
+ 1504  sudo docker-compose build --no-cache
+ 1505  sudo docker-compose up 
+ 1506  sudo docker-compose build --no-cache
+ 1507  sudo docker-compose up 
+ 1508  sudo docker-compose build --no-cache
+ 1509  sudo docker-compose up 
+ 1510  sudo docker-compose build --no-cache
+ 1511  sudo docker-compose up 
+ 1512  sudo docker-compose build
+ 1513  sudo docker-compose up 
+ 1514  sudo docker-compose build --no-cache
+ 1515  sudo docker-compose up 
+ 1516  sudo docker-compose build --no-cache
+ 1517  sudo docker-compose up 
+ 1518  sudo docker-compose build --no-cache
+ 1519  sudo docker-compose up 
+ 1520  sudo docker-compose up --remove-orphans
+ 1521  sudo docker-compose up 
+ 1522  sudo docker-compose up --remove-orphans
+ 1523  sudo docker-compose up 
+ 1524  sudo docker-compose build --no-cache
+ 1525  sudo docker-compose up 
+ 1526  sudo docker-compose build --no-cache
+ 1527  sudo docker-compose up 
+ 1528  sudo docker-compose build --no-cache
+ 1529  sudo docker-compose up 
+ 1530  sudo docker-compose build --no-cache
+ 1531  sudo docker-compose build
+ 1532  service docker status
+ 1533  sudo docker ps -a
+ 1534  sudo docker rm
+ 1535  sudo docker rm --help
+ 1536  sudo docker help
+ 1537  sudo docker rm help
+ 1538  sudo docker rm --help
+ 1539  sudo docker rm all
+ 1540  sudo docker ps
+ 1541  sudo docker ps -a
+ 1542  cd ../
+ 1543  ls
+ 1544  cd vulnexamples/
+ 1545  ls
+ 1546  python3 admin_bot.py 
+ 1547  pip3 install selenium
+ 1548  python3 admin_bot.py 
+ 1549  export PATH
+ 1550  export PATH="$PATH:~/internship/vulnexamples"
+ 1551  python3 admin_bot.py 
+ 1552  echo $PTH
+ 1553  echo $PATH
+ 1554  export PATH="$PATH:/home/bogotolec/internship/vulnexamples"
+ 1555  python3 admin_bot.py 
+ 1556  pip3 freeze
+ 1557  manage.py
+ 1558  sudo manage.py
+ 1559  manage.py 
+ 1560  cd ../
+ 1561  python3 manage.py 
+ 1562  django-admin startproject vulnexamples
+ 1563  cd vulnexamples/
+ 1564  python3 manage.py startapp
+ 1565  python3 manage.py startapp index
+ 1566  pycharm
+ 1567  telegram &
+ 1568  pip3 install selenium
+ 1569  ls
+ 1570  telegram &
+ 1571  pip3 install django-hosts
+ 1572  pip3 install django-subdomains
+ 1573  sudo echo "127.0.0.1 *.localhost" >> /etc/hosts
+ 1574  sudo echo "127.0.0.1 *.localhost" >> /etc/hosts
+ 1575  sudo nano /etc/hosts
+ 1576  wine esco.exe
+ 1577  ld
+ 1578  ls
+ 1579  wine h3hota.exe
+ 1580  ./pycharm.sh 
+ 1581  telegram &
+ 1582  python3
+ 1583  telegram 
+ 1584  cd internship
+ 1585  git clone http://github.com/kezzyhko/vulnexamples.git
+ 1586  cd vulnexamples
+ 1587  docker-compose up
+ 1588  service docker start
+ 1589  docker-compose up
+ 1590  service docker status
+ 1591  docker-compose up
+ 1592  service docker status
+ 1593  service docker start
+ 1594  sudo service docker start
+ 1595  sudo docker-compose up
+ 1596  sudo docker-compose up --build
+ 1597  git pull
+ 1598  docker-compose build --no-cache
+ 1599  sudo docker-compose build --no-cache
+ 1600  sudo docker ps -a
+ 1601  sudo docker rm $(docker ps -a -q)
+ 1602  docker ps -a -q
+ 1603  sudo docker rm $(sudo docker ps -a -q)
+ 1604  docker ps -a
+ 1605  sudo docker ps -a
+ 1606  sudo docker-compose up
+ 1607  sudo docker ps -a
+ 1608  sudo docker-compose up
+ 1609  cd data
+ 1610  ls
+ 1611  cd com.playgendary.pinatamasters/
+ 1612  grep -A -i "coin" ./
+ 1613  grep -A2 -i "coin" ./
+ 1614  grep -A2 -i "coin" .
+ 1615  grep -A2 -i "coin" *
+ 1616  grep -A2 -i "coin" cache/*
+ 1617  grep -A2 -i "coin" *
+ 1618  grep -A2 -i "coin" files/*
+ 1619  grep -A2 -i "coin" files/al/*
+ 1620  grep -o -i ".{0,5}coin.{0,5}" files/al/*
+ 1621  grep -E -o -i ".{0,5}coin.{0,5}" files/al/*
+ 1622  grep -E -o -i ".{0,5}coin.{0,5}" files/HTTPCache/*
+ 1623  cd files/
+ 1624  cd il2cpp/
+ 1625  ls
+ 1626  cd Resources/
+ 1627  grep -E -o -i ".{0,5}coin.{0,5}" mscorlib.dll-resources.dat 
+ 1628  telegram &
+ 1629  mkdir week1
+ 1630  cd week1
+ 1631  ls
+ 1632  man ls
+ 1633  ls -r
+ 1634  ls -r /usr/bin
+ 1635  ls -r /usr/bin > ex1.txt
+ 1636  cat ex1.txt
+ 1637  history > ex2.txt
