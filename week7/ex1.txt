@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   1825	    608	      8	   2441	    989	ex1
