@@ -1,0 +1,6 @@
+Physical address refers to physical cell of memory with the same index.
+
+Virtual adress refers to some cell of memory, for program's point of view.
+It doesn't matter for program to which one, but it is important for program
+to adresses be continiously. But physical cells of this addresses may be
+not in row.
