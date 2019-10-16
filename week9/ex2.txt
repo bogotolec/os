@@ -1,0 +1,6 @@
+If all pages will be accessed all times in the row, it will highly increase hit rate.
+For example, sorted moodle example will increase hit amount in all cases up tp 300+ (about 30%).
+
+Analogically, if pages requested like 
+1, 2, ..., n, 1, 2, ..., n, 1, 2, ..., n etc.
+then hit rate will be very low.
