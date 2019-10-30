@@ -1,0 +1,12 @@
+Output of program 1:
+Hello
+Hello
+
+Output of program 2:
+Hello
+
+
+
+This happens because output to UNIX terminal supports line buffering standartly.
+In the first program buffer contains "Hello", and buffer also copied.
+In the second program buffer is clear beause of "\n" in the end of first printf.
